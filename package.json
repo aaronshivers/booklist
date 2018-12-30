@@ -1,0 +1,22 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "This is an application that uses Local Storage to create read, and delete user input.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshivers/booklist.git"
+  },
+  "author": "aaron shivers",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aaronshivers/booklist/issues"
+  },
+  "homepage": "https://github.com/aaronshivers/booklist#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
